@@ -29,31 +29,41 @@ I enjoy working with **data cleaning, visualization, and analytics tools** to so
 📌 Sales Analysis Dashboard
 
 ✔ Created an interactive sales performance dashboard
+
 ✔ Visualized revenue trends, product performance, and KPIs
+
 ✔ Enabled quick business insights through filters and visuals
 
 📌 Amazon Prime Analysis Dashboard
 
 ✔ Analyzed Amazon Prime movies and TV shows dataset
+
 ✔ Visualized content distribution by genre, rating, and release year
+
 ✔ Built interactive charts to explore content trends
 
 📌 HR Analytics Dashboard
 
 ✔ Analyzed employee attrition and workforce data
+
 ✔ Identified key factors affecting employee turnover
+
 ✔ Designed KPIs for HR decision making
 
 📌 IPL Data Analysis Dashboard
 
 ✔ Analyzed IPL data across multiple seasons
+
 ✔ Created interactive visuals for team performance and player statistics
+
 ✔ Built dynamic filters for exploring match insights
 
 # 📚 Currently Learning
 
 📈 Advanced Data Analytics
+
 📊 Data Modeling & Dashboard Optimization
+
 🧠 Data Storytelling
 
 # 🤖 Future Interests
