@@ -74,7 +74,7 @@ to build **intelligent data-driven solutions**
 # 📫 Connect With Me
 
 💼 LinkedIn
-[https://www.linkedin.com/](https://www.linkedin.com/)
+[https://www.linkedin.com/in/deepti-suresh-3824a227b/](https://www.linkedin.com/)
 
 📧 Email
 [deeptisuresh05@gmail.com](mailto:deeptisuresh05@gmail.com)
